@@ -2,6 +2,8 @@ Esta es la vida de Eduardo
 
 Eduardo tiene 19 años y le gusta la programación
 
+DLipaFeik es una cuenta fake para seguir aprendiendo sobre git
+
 En 2017 conocio a Monika
 
 Ahora agrego otros datos, como que mido 1.75 masomenos
